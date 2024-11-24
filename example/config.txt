@@ -1,0 +1,2 @@
+Prefix plugins/PCASD/example/
+Plugin PCASD inputfile zscore.rds outputfile PCASD
